@@ -68,3 +68,9 @@
 1. Há um módulo externo chamado inquirer
 2. Que é muito mais completo para resgatar e lidade com o input do usuário.
 3. Além disso, é baseado em Promises, o que torna sua utilização mais simples.
+
+## Event Loop
+1. O Event Loop é um recurso da arquitetura do Node.
+2. O Node.js executa uma linha por vez, e de cima para baixo do código escrito
+3. Ajuda a evitar problemas de concorrência.
+4. Precisamos apenas cuidar com bloqueios no fluxo, como loops infinitos
