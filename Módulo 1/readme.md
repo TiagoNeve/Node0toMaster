@@ -16,3 +16,10 @@
 3. Também podemos executar scripts.
 4. Os módulos externos, ficam numa pasta chamada node_modules.
 5. Ela deve ser descartável, sempre que começarmos um novo projeto baixamos todos os pacotes novamente.
+
+## Executando o Node
+1. Estaremos executando o Node via arquivos do nosso projeto
+2. É possível executar node via terminal
+3. Basta digitar: node
+4. Node.js possui todas as funcionalidades de JavaScript
+5. O nomde do recurso é REPL (Read Evaluate Print Loop)
