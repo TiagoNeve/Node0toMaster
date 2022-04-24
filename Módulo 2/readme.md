@@ -17,3 +17,10 @@
 3. Podemos utilizar a instrução module.exports.
 4. Importar onde precisamos utilizar.
 5. Para importar basta utilizar a instrução require.
+
+## Export e Import
+1. É possível utilizar o export e import do ES6
+2. Funcionalidades mais modernas de importação e exportação
+3. Para isso, precisamos de arquivos com extensão .mjs
+4. então podemos exportar uma com export default.
+5. e importar com import, uma única função, caso seja necessário.
