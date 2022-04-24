@@ -47,3 +47,9 @@
 ## Something pratice with arguments
 1. We can use args to apply in our logic
 2. We save the values in variables, because we can use in other moment.
+
+## Explorando o console
+1. Temos uma grande variedade de métodos no console.
+2. Podemos imprimir mais de uma variável por vez.
+3. Inserir variáveis entre strings.
+4. Há um método para limpar as mensagens de console.
