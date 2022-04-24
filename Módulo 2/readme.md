@@ -63,3 +63,8 @@
 1. Podemos ler dados do usuário com o módulo readline, um Core Module.
 2. Utilizamos o método question, que faz uma pergunta a ser respondida pelo usuário.
 3. Depois podemos processar a resposta e entregar um retorno.
+
+## Melhorando a leitura de dados
+1. Há um módulo externo chamado inquirer
+2. Que é muito mais completo para resgatar e lidade com o input do usuário.
+3. Além disso, é baseado em Promises, o que torna sua utilização mais simples.
