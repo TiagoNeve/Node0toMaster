@@ -9,3 +9,10 @@
 2. Uma biblioteca utilizada por um compilador durante a execução do programa.
 3. Construída na V8 engine (escrita em C++) da Google.
 4. Possibilitando criar softwares em JS no lado do servidor, portanto temos JS rodando em C++ para garantir alta performance.
+
+## O que é npm
+1. O npm é um gerenciador de pacotes do Node.
+2. Podemos utilizar libs de terceiros, baixando elas pelo npm.
+3. Também podemos executar scripts.
+4. Os módulos externos, ficam numa pasta chamada node_modules.
+5. Ela deve ser descartável, sempre que começarmos um novo projeto baixamos todos os pacotes novamente.
