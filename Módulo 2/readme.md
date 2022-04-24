@@ -24,3 +24,8 @@
 3. Para isso, precisamos de arquivos com extensão .mjs
 4. então podemos exportar uma com export default.
 5. e importar com import, uma única função, caso seja necessário.
+
+## Core Modules
+1. Temos diversos Core Modules, que são os que vem prontos para serem utilizados
+2. Resolvem diversos problemas, como: Trabalhar com arquivos e diretórios, servir aplicações e etc.
+3. Precisamos importar estes módulos no projeto para poder utilizar
