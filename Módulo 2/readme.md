@@ -53,3 +53,8 @@
 2. Podemos imprimir mais de uma variável por vez.
 3. Inserir variáveis entre strings.
 4. Há um método para limpar as mensagens de console.
+
+## Melhorando a visualização
+1. Há um módulo externo chamado chalk
+2. Ele pode deixar a visualização do console mais agradável
+3. Fazendo com que seja possível expressar um feedback com base em cores.
