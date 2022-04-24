@@ -86,3 +86,8 @@
 2. sync ou async
 3. Forma síncrona: O código espera ser totalmente executado para prosseguir
 4. Forma assíncrona: O código continua progredindo e em um ponto futuro obtém a resposta da execução assíncrona.
+
+## Erros no Node
+1. Duas formas de gerar ou evidenciar erros em Node.js
+2. throw: Uma forma de encerrar um programa, gerando um novo erro.
+3. try catch: Uma forma de evidencia algo que deu errado em um bloco de código e exibir a mensagem de erro.
