@@ -29,3 +29,9 @@
 1. Temos diversos Core Modules, que são os que vem prontos para serem utilizados
 2. Resolvem diversos problemas, como: Trabalhar com arquivos e diretórios, servir aplicações e etc.
 3. Precisamos importar estes módulos no projeto para poder utilizar
+
+## Ler argumentos 
+1. Node permite o envio de argumentos via linha de comando
+2. Passamos eles após a instrução de execução do arquivo.
+3. Os argumentos ficam em um array chamado: process.argv
+4. Podemos fazer um loop e resgatar os valores enviados.
