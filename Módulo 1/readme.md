@@ -23,3 +23,8 @@
 3. Basta digitar: node
 4. Node.js possui todas as funcionalidades de JavaScript
 5. O nomde do recurso é REPL (Read Evaluate Print Loop)
+
+## Nosso primeiro programa
+1. Um programa simples baseado em um arquivo
+2. Extensão do arquivo é .js
+3. Para executar o arquivo, basta digitar node <arquivo>
