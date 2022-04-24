@@ -58,3 +58,8 @@
 1. Há um módulo externo chamado chalk
 2. Ele pode deixar a visualização do console mais agradável
 3. Fazendo com que seja possível expressar um feedback com base em cores.
+
+## Lendo entrada de dados
+1. Podemos ler dados do usuário com o módulo readline, um Core Module.
+2. Utilizamos o método question, que faz uma pergunta a ser respondida pelo usuário.
+3. Depois podemos processar a resposta e entregar um retorno.
