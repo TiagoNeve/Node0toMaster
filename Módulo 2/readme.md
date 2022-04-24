@@ -43,3 +43,7 @@
 4. Esses módulos são salvos na pasta node_modules
 5. Podemos instalar com o comando 
 > npm install <nome>
+
+## Something pratice with arguments
+1. We can use args to apply in our logic
+2. We save the values in variables, because we can use in other moment.
