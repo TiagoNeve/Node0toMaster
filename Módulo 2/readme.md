@@ -80,3 +80,9 @@
 2. Podemos ativar um código em alguns pontos da aplicação, como o início.
 3. É um Core Module chamado events.
 4. Precisamos instanciar a classe EventEmitter que vem deste módulo.
+
+## Síncrono e Assíncrono
+1. Node.js temos duas opções ao executar métodos.
+2. sync ou async
+3. Forma síncrona: O código espera ser totalmente executado para prosseguir
+4. Forma assíncrona: O código continua progredindo e em um ponto futuro obtém a resposta da execução assíncrona.
