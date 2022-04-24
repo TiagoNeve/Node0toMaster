@@ -74,3 +74,9 @@
 2. O Node.js executa uma linha por vez, e de cima para baixo do código escrito
 3. Ajuda a evitar problemas de concorrência.
 4. Precisamos apenas cuidar com bloqueios no fluxo, como loops infinitos
+
+## Event Emitter
+1. O Event Emitter se comporta como os eventos do navegador.
+2. Podemos ativar um código em alguns pontos da aplicação, como o início.
+3. É um Core Module chamado events.
+4. Precisamos instanciar a classe EventEmitter que vem deste módulo.
