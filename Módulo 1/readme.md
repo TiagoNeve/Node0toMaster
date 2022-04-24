@@ -28,3 +28,9 @@
 1. Um programa simples baseado em um arquivo
 2. Extensão do arquivo é .js
 3. Para executar o arquivo, basta digitar node <arquivo>
+
+## Utilizando um módulo
+1. Importar o módulo File System do node.
+2. Este módulo serve para trabalhar com diretórios, arquivos e etc.
+3. É um Core Module, ou seja, não é necessário instalar.
+4. Podemos importar módulos com a instrução import.
