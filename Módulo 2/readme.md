@@ -35,3 +35,11 @@
 2. Passamos eles após a instrução de execução do arquivo.
 3. Os argumentos ficam em um array chamado: process.argv
 4. Podemos fazer um loop e resgatar os valores enviados.
+
+## Módulos externos
+1. Módulos externos podem ser instalados via npm.
+2. Para isso, precisamos inicializar o npm no projeto, com: npm init
+3. A partir desse ponto os módulos ficam mapeados e podemos instalar módulos
+4. Esses módulos são salvos na pasta node_modules
+5. Podemos instalar com o comando 
+> npm install <nome>
