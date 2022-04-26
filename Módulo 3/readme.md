@@ -22,3 +22,8 @@
 2. Podemos adicionar um status code no retorno, com a propriedade statusCode
 3. Mudar os headers para text/html
 4. Retornar o HTML pelo método end do http.
+
+## Módulo url
+1. Url serve para decompor uma URL que passamos para o método parse.
+2. Podemos resgatar: host, path, serach, query
+3. A partir destas informações podemos alterar a lógica do nosso código.
