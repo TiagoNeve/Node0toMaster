@@ -27,3 +27,8 @@
 1. Url serve para decompor uma URL que passamos para o método parse.
 2. Podemos resgatar: host, path, serach, query
 3. A partir destas informações podemos alterar a lógica do nosso código.
+
+## Unindo os módulos http e url
+1. Podemos trabalhar com estes módulos juntos e ter um resultado interessante
+2. com o http criamos nosso server e alteramos a resposta baseado na URL acessada
+3. Com url processamos os parâmetros que vem pela query string, para alterar a lógica do http
