@@ -51,3 +51,8 @@
 1. Remover um arquivo com o fs utilizamos o método unlink
 2. Precisamos passar o arquivo omo parâmetro
 3. Temos a possibilidade de checar se houve algum erro, a partir da callback.
+
+## Renomeando um arquivo
+1. Módulo fs, método rename
+2. Precisamos passar o arquivo como parâmetro e novo nome
+3. Podemos verificar algum erro via callback
