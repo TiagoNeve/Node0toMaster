@@ -42,3 +42,7 @@
 1. Podemos criar e escrever em arquivos também, utilizando o método writeFile.
 2. Esta escrita pode estar associada a um conjunto de operações.
 3. Como o envio de informações de um usuário
+
+## Atualizando um arquivo
+1. writeFile substitui tudo que está em um arquivo
+2. Para atualizar então utilizar o appendFile.
