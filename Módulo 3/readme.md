@@ -37,3 +37,8 @@
 1. fs serve para trabalhar com arquivos e diretórios.
 2. Podemos ler e escrever em arquivos.
 3. Uma utilização interessante: logs do sistema.
+
+## Escrevendo em arquivos
+1. Podemos criar e escrever em arquivos também, utilizando o método writeFile.
+2. Esta escrita pode estar associada a um conjunto de operações.
+3. Como o envio de informações de um usuário
