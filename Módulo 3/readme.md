@@ -46,3 +46,8 @@
 ## Atualizando um arquivo
 1. writeFile substitui tudo que está em um arquivo
 2. Para atualizar então utilizar o appendFile.
+
+## Removendo um arquivo
+1. Remover um arquivo com o fs utilizamos o método unlink
+2. Precisamos passar o arquivo omo parâmetro
+3. Temos a possibilidade de checar se houve algum erro, a partir da callback.
