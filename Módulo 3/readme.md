@@ -32,3 +32,8 @@
 1. Podemos trabalhar com estes módulos juntos e ter um resultado interessante
 2. com o http criamos nosso server e alteramos a resposta baseado na URL acessada
 3. Com url processamos os parâmetros que vem pela query string, para alterar a lógica do http
+
+## Módulo fs
+1. fs serve para trabalhar com arquivos e diretórios.
+2. Podemos ler e escrever em arquivos.
+3. Uma utilização interessante: logs do sistema.
