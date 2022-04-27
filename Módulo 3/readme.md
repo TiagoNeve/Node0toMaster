@@ -56,3 +56,8 @@
 1. Módulo fs, método rename
 2. Precisamos passar o arquivo como parâmetro e novo nome
 3. Podemos verificar algum erro via callback
+
+## Rotas com Node.js puro
+1. Podemos criar um sistema de roteamento simples com Node.js e seus Core Modules.
+2. As rotas são basicamente as páginas que acessamos nos sites.
+3. A ideia é identificar os arquivos acessados pela URL e retorná-los, se existirem.
